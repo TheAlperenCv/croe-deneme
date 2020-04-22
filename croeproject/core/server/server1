@@ -1,0 +1,6 @@
+class host:
+   def host():
+   host = "192.168.88.254"
+class port:
+   def port():
+   port = 4455
