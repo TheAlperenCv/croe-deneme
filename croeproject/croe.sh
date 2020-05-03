@@ -20,7 +20,7 @@ echo -e "SİLMEK İÇİN => \t bash croe.sh --sil"
 while [ "$1" != "" ]; do
     case $1 in
         --kur ) shift
-         k
+         ked
         ;;
         --sil ) s
         ;;
